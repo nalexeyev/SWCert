@@ -16,6 +16,7 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="ReadMe.txt" />
+    <Text Include="textfile.txt" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="SWCert-eJudge1-TaskG.cpp">
